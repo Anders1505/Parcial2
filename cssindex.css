@@ -1,0 +1,15 @@
+h1 {
+    font-family: monospace;
+    font-size: xx-large;
+    color: tomato;
+}
+
+h2 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: x-large;
+    color: teal;
+}
+
+p {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
